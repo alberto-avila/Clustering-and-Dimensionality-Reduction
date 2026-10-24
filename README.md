@@ -68,4 +68,4 @@ Python · scikit-learn (PCA, KMeans, DBSCAN, t-SNE, StandardScaler, Normalizer, 
 
 ---
 
-*Built as part of the Machine Learning I course in my master's program at the University of Chicago.*
+*Built as part of my master's program at the University of Chicago.*
